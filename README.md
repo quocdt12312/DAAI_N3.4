@@ -4,8 +4,8 @@ Nhập môn phân tích dữ liệu và AI(420301779102)
    https://home.atlassian.com/o/de33f510-1e5b-4c69-bc21-6b7899a0048b/s/a3198fa5-f763-4901-9043-881bf675db64/project/DAAIN-1
 
 2. Danh sách thành viên
-   1. 24711531 Bùi Quang Thuận
-   2. 24710371 Trần Đình Quốc
+   1. 24710371 Trần Đình Quốc
+   2. 24711531 Bùi Quang Thuận
    3. 24721031 Phạm Ngọc Quê
    4. 24707881 Vũ Tuấn Thanh
 
