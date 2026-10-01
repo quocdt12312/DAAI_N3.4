@@ -1,4 +1,14 @@
-﻿-- Tạo Fact Table cho Doanh thu giao dịch
+/*
+Chọn Star Schema kết nối trực tiếp các bảng chiều (Dimension) 
+xung quanh một hoặc nhiều bảng sự kiện/tổng hợp (Fact/Aggregated Fact). 
+Giúp giảm thiểu số lượng phép JOIN phức tạp
+
+Nếu chọn Snowflake chuẩn hóa (normalize) các bảng Dimension thành nhiều lớp, 
+làm tăng số lần JOIN và giảm hiệu năng khi vẽ biểu đồ.
+
+*/
+
+-- Tạo Fact Table cho Doanh thu giao dịch
 SELECT 
     o.order_date,
     o.order_id,
