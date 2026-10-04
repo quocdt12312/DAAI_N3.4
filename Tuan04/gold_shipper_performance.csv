@@ -1,4 +1,5 @@
-﻿SHP00009,Nguyễn Thanh Bình,12,380,1984.02000212111,4.30000019073486,97.4000015258789,4.27105263157895,Evening,Truck,BEST Express,Phu Ly,East,District #10
+shipper_id,shipper_name,years_experience,total_orders,total_shipping_fee,average_rating,average_success_rate,average_delivery_time,working_shift,shipper_vehicle,shipper_company,city,region,district
+SHP00009,Nguyễn Thanh Bình,12,380,1984.02000212111,4.30000019073486,97.4000015258789,4.27105263157895,Evening,Truck,BEST Express,Phu Ly,East,District #10
 SHP00012,Nguyễn Thị Bình,6,393,2149.34999741428,4.69999980926514,97.1999969482422,4.45547073791349,Morning,Motorbike,GHTK,Ha Long,East,District #07
 SHP00059,Nguyễn Minh Quân,7,381,2331.41000215895,5,98.9000015258789,4.4750656167979,Evening,Van,J&T Express,Bac Lieu,West,District #37
 SHP00010,Bùi Đức Bình,8,361,2150.65000495315,4.5,99.5,4.59279778393352,Evening,Motorbike,Ahamove,Tra Vinh,West,District #37
